@@ -1,0 +1,82 @@
+{
+  "ticker": [
+    {
+      "id": "1",
+      "textEn": "Pre-Matric (Fresh, Class 9-12): Last date to apply online — 21 September",
+      "textHi": "प्री-मैट्रिक (नया आवेदन, कक्षा 9-12): ऑनलाइन आवेदन की अंतिम तिथि — 21 सितंबर",
+      "link": "/scholarship/prematric",
+      "targetDate": "2026-09-21",
+      "icon": "alert-circle",
+      "urgent": true,
+      "active": true,
+      "isNew": true,
+      "expiresOn": "2026-09-21",
+      "order": 1
+    },
+    {
+      "id": "2",
+      "textEn": "Pre-Matric Renewal: Correction window opens 17 September to 10 October",
+      "textHi": "प्री-मैट्रिक रिन्यूअल: करेक्शन विंडो 17 सितंबर से 10 अक्टूबर तक खुलेगी",
+      "link": "/scholarship/prematric",
+      "targetDate": "2026-09-17",
+      "icon": "calendar",
+      "urgent": false,
+      "active": true,
+      "isNew": true,
+      "expiresOn": "2026-10-10",
+      "order": 2
+    },
+    {
+      "id": "3",
+      "textEn": "Post-Matric (Fresh, UG/PG/Diploma): Applications open 15 September, last date 31 October",
+      "textHi": "पोस्ट-मैट्रिक (नया आवेदन - UG/PG/Diploma): आवेदन 15 सितंबर से शुरू, अंतिम तिथि 31 अक्टूबर",
+      "link": "/scholarship/postmatric",
+      "targetDate": "2026-10-31",
+      "icon": "calendar",
+      "urgent": false,
+      "active": true,
+      "isNew": true,
+      "expiresOn": "2026-10-31",
+      "order": 3
+    },
+    {
+      "id": "4",
+      "textEn": "Post-Matric Renewal: Applications open 15 September, last date 15 October",
+      "textHi": "पोस्ट-मैट्रिक रिन्यूअल: आवेदन 15 सितंबर से शुरू, अंतिम तिथि 15 अक्टूबर",
+      "link": "/scholarship/postmatric",
+      "targetDate": "2026-10-15",
+      "icon": "alert-circle",
+      "urgent": true,
+      "active": true,
+      "isNew": true,
+      "expiresOn": "2026-10-15",
+      "order": 4
+    },
+    {
+      "id": "5",
+      "textEn": "Pre-Matric (Fresh): Submit hard copy to school by 5 October",
+      "textHi": "प्री-मैट्रिक (नया आवेदन): हार्ड कॉपी स्कूल में जमा करने की अंतिम तिथि — 5 अक्टूबर",
+      "link": "/scholarship/prematric",
+      "targetDate": "2026-10-05",
+      "icon": "check-circle",
+      "urgent": false,
+      "active": true,
+      "isNew": false,
+      "expiresOn": "2026-10-05",
+      "order": 5
+    },
+    {
+      "id": "6",
+      "textEn": "Post-Matric (Fresh): Correction window opens 6 December to 31 December",
+      "textHi": "पोस्ट-मैट्रिक (नया आवेदन): करेक्शन विंडो 6 दिसंबर से 31 दिसंबर तक खुलेगी",
+      "link": "/scholarship/postmatric",
+      "targetDate": "2026-12-06",
+      "icon": "calendar",
+      "urgent": false,
+      "active": true,
+      "isNew": true,
+      "expiresOn": "2026-12-31",
+      "order": 6
+    }
+  ]
+}
