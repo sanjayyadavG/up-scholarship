@@ -1,0 +1,64 @@
+{
+  "socials": [
+    {
+      "id": "whatsapp",
+      "titleEn": "WhatsApp Channel",
+      "titleHi": "WhatsApp चैनल",
+      "subtitleEn": "Get updates first",
+      "subtitleHi": "सबसे पहले अपडेट पाएं",
+      "url": "https://whatsapp.com/channel/0029Vb7idy28F2pCiN0EZ91Q",
+      "icon": "whatsapp",
+      "color": "#25D366",
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "id": "telegram",
+      "titleEn": "Telegram Group",
+      "titleHi": "Telegram ग्रुप",
+      "subtitleEn": "Ask questions, get help",
+      "subtitleHi": "सवाल पूछें, मदद पाएं",
+      "url": "https://t.me/+fneCvbGecWUxMzll",
+      "icon": "telegram",
+      "color": "#0EA5E9",
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "id": "youtube",
+      "titleEn": "YouTube Channel",
+      "titleHi": "YouTube चैनल",
+      "subtitleEn": "Watch tutorial videos",
+      "subtitleHi": "वीडियो ट्यूटोरियल देखें",
+      "url": "https://youtube.com/@your-channel-here",
+      "icon": "youtube",
+      "color": "#FF0000",
+      "enabled": false,
+      "order": 3
+    },
+    {
+      "id": "instagram",
+      "titleEn": "Instagram Page",
+      "titleHi": "Instagram पेज",
+      "subtitleEn": "Daily tips & updates",
+      "subtitleHi": "रोज़ाना टिप्स और अपडेट",
+      "url": "https://instagram.com/your-handle-here",
+      "icon": "instagram",
+      "color": "#E1306C",
+      "enabled": false,
+      "order": 4
+    },
+    {
+      "id": "website2",
+      "titleEn": "Our Other Website",
+      "titleHi": "हमारी अन्य वेबसाइट",
+      "subtitleEn": "More study resources",
+      "subtitleHi": "और पढ़ाई सामग्री",
+      "url": "https://your-other-website.com/",
+      "icon": "globe",
+      "color": "#4F46E5",
+      "enabled": false,
+      "order": 5
+    }
+  ]
+}
