@@ -33,7 +33,7 @@
       "url": "https://youtube.com/@your-channel-here",
       "icon": "youtube",
       "color": "#FF0000",
-      "enabled": false,
+      "enabled": true,
       "order": 3
     },
     {
