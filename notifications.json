@@ -20,7 +20,7 @@
       "messageHi": "स्कॉलरशिप फॉर्म भरने से पहले OTR अनिवार्य कर दिया गया है। सर्वर डाउन होने से पहले आज ही अपना OTR नंबर बना लें।",
       "icon": "alert-circle",
       "link": "https://upscholarships.in/",
-      "active": true
+      "active": false
     },
     {
       "id": "3",
@@ -30,7 +30,7 @@
       "messageEn": "Scholarship money will only be sent to Aadhaar-seeded bank accounts. Link your Aadhaar and map it with NPCI immediately.",
       "messageHi": "स्कॉलरशिप का पैसा केवल आधार लिंक (NPCI Mapped) बैंक खाते में ही आएगा। आज ही अपने बैंक जाकर इसे लिंक कराएं।",
       "icon": "briefcase",
-      "link": "https://upscholarships.in/",
+      "link": "https://upscholarships.in/npci-bank-seeding-status-check/",
       "active": true
     },
     {
@@ -42,7 +42,7 @@
       "messageHi": "जिन छात्रों को पिछले साल स्कॉलरशिप मिली थी, वे सीधे रिन्यूअल लॉगिन करें। नया (Fresh) रजिस्ट्रेशन बिल्कुल न करें।",
       "icon": "refresh-cw",
       "link": "https://upscholarships.in/",
-      "active": true
+      "active": false
     },
     {
       "id": "5",
@@ -53,7 +53,7 @@
       "messageHi": "सुनिश्चित करें कि आपका आय और जाति प्रमाण पत्र ऑनलाइन वेरिफाई हो रहा हो। आधार कार्ड में मोबाइल नंबर लिंक होना ज़रूरी है।",
       "icon": "file-text",
       "link": "https://upscholarships.in/",
-      "active": true
+      "active": false
     }
   ]
 }
