@@ -1,62 +1,64 @@
 {
-  "prematric": {
-    "title": "Pre-Matric & Inter (Class 9-12)",
-    "deadline": "2026-09-21",
-    "startDate": "2026-08-11",
-    "classes": [
-      "Class 9",
-      "Class 10",
-      "Class 11",
-      "Class 12"
-    ],
-    "documents": [
-      "Aadhaar Card (Mobile Linked)",
-      "Caste Certificate",
-      "Income Certificate",
-      "Bank Passbook",
-      "Previous Year Marksheet"
-    ],
-    "eligibility": [
-      "Student must be a resident of Uttar Pradesh",
-      "Studying in Class 9, 10, 11, or 12 in a recognized institution",
-      "Family income should be within the prescribed limit"
-    ],
-    "instructions": [
-      "Complete One Time Registration (OTR) before applying",
-      "Upload clear and valid documents only",
-      "Renewal students must apply before 25 August 2026"
-    ]
-  },
-  "postmatric": {
-    "title": "Post-Matric Scholarship (Dashmottar)",
-    "deadline": "2026-10-31",
-    "startDate": "2026-09-15",
-    "courses": [
-      "UG (BA, B.Sc, B.Com, B.Tech, BBA, BCA, etc.)",
-      "PG (MA, M.Sc, M.Com, MBA, MCA, etc.)",
-      "Diploma (Polytechnic, Pharmacy, etc.)",
-      "ITI (All Trades)",
-      "Teaching (B.Ed, BTC, D.El.Ed)",
-      "Medical & Nursing Courses",
-      "All Other Recognized Courses"
-    ],
-    "documents": [
-      "Aadhaar Card (Mobile Linked)",
-      "Caste Certificate",
-      "Income Certificate",
-      "Bank Passbook (NPCI Mapped)",
-      "Current Year Fee Receipt",
-      "Previous Year Marksheet"
-    ],
-    "eligibility": [
-      "Student must be a resident of Uttar Pradesh",
-      "Enrolled in UG, PG, Diploma or other recognized higher courses",
-      "Family income should be within the prescribed limit"
-    ],
-    "instructions": [
-      "Renewal students must use the renewal login, not new registration",
-      "Keep your institute verification status updated",
-      "Complete OTR as it is strictly mandatory for all"
-    ]
+  "deadlines": {
+    "prematric": {
+      "title": "Pre-Matric & Inter (Class 9-12)",
+      "deadline": "2026-09-21",
+      "startDate": "2026-08-11",
+      "classes": [
+        "Class 9",
+        "Class 10",
+        "Class 11",
+        "Class 12"
+      ],
+      "documents": [
+        "Aadhaar Card (Mobile Linked)",
+        "Caste Certificate",
+        "Income Certificate",
+        "Bank Passbook",
+        "Previous Year Marksheet"
+      ],
+      "eligibility": [
+        "Student must be a resident of Uttar Pradesh",
+        "Studying in Class 9, 10, 11, or 12 in a recognized institution",
+        "Family income should be within the prescribed limit"
+      ],
+      "instructions": [
+        "Complete One Time Registration (OTR) before applying",
+        "Upload clear and valid documents only",
+        "Renewal students must apply before 25 August 2026"
+      ]
+    },
+    "postmatric": {
+      "title": "Post-Matric Scholarship (Dashmottar)",
+      "deadline": "2026-10-31",
+      "startDate": "2026-09-15",
+      "courses": [
+        "UG (BA, B.Sc, B.Com, B.Tech, BBA, BCA, etc.)",
+        "PG (MA, M.Sc, M.Com, MBA, MCA, etc.)",
+        "Diploma (Polytechnic, Pharmacy, etc.)",
+        "ITI (All Trades)",
+        "Teaching (B.Ed, BTC, D.El.Ed)",
+        "Medical & Nursing Courses",
+        "All Other Recognized Courses"
+      ],
+      "documents": [
+        "Aadhaar Card (Mobile Linked)",
+        "Caste Certificate",
+        "Income Certificate",
+        "Bank Passbook (NPCI Mapped)",
+        "Current Year Fee Receipt",
+        "Previous Year Marksheet"
+      ],
+      "eligibility": [
+        "Student must be a resident of Uttar Pradesh",
+        "Enrolled in UG, PG, Diploma or other recognized higher courses",
+        "Family income should be within the prescribed limit"
+      ],
+      "instructions": [
+        "Renewal students must use the renewal login, not new registration",
+        "Keep your institute verification status updated",
+        "Complete OTR as it is strictly mandatory for all"
+      ]
+    }
   }
 }
